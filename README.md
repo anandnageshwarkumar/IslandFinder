@@ -1,4 +1,4 @@
-# IslandFinder
+# IslandFinder Program to find Islands in a 2d array of numbers between 0 -9 Island: 4 or more matching numbers, horizontally or vertically adjacent. Zero (0): Zero is a special number that acts as wild card, meaning it substitutes for other numbers, but It cannot form its own island. Input: a n x m array of int (0 – 9) (generate random input or read from file), 6 < n < 13, 6 < m < 13 Output: number of islands, information about island should include the size, forming number and their positions.
 
 Program to find Islands in a 2d array of numbers between 0 -9
 Island:   4 or more matching numbers, horizontally or vertically adjacent.
